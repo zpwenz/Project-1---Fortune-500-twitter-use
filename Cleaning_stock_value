@@ -1,0 +1,20 @@
+stock_response = requests.get(query_url)
+
+stock_json = stock_response.json()
+stock_list =[]
+stock_info =[]
+for key, value in stock_json.items():
+    stock_list.append([key,value])
+
+
+
+for key, value in stock_list[1][1].items():
+    stock_day = []
+    stock_day.append(key)
+    for col, item in value.items():
+        stock_day.append(item)
+    stock_info.append(stock_day)
+        
+print(stock_info)
+
+print(json.dumps(stock_json, indent=4, sort_keys=True))
