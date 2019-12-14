@@ -18,3 +18,9 @@ for key, value in stock_list[1][1].items():
 print(stock_info)
 
 print(json.dumps(stock_json, indent=4, sort_keys=True))
+-------------------------------------------------------
+
+df_stock_json = pd.DataFrame(stock_info)
+
+df_stock_json.columns =['Date:' + symbol, 'Open', 'High', 'Low', 'Close', 'Volume']
+df_stock_json
