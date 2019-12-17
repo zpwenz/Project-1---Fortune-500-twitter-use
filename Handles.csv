@@ -1,0 +1,101 @@
+RANK,COMPANY,SYMBOL,REVENUES($M),WEBSITE,Twitter Handle
+1,Walmart,WMT,482130,www.walmart.com,walmart
+2,Exxon Mobil,XOM,246204,www.exxonmobil.com,exxonmobil
+3,Apple,APPL,233715,www.apple.com,Apple
+4,Berkshire Hathaway,BRK.B,210821,www.berkshirehathaway.com,BHHSRealEstate
+5,McKesson,MCK,181241,www.mckesson.com,McKesson
+6,UnitedHealth Group,UNH,157107,www.unitedhealthgroup.com,UnitedHealthGrp
+7,CVS Health,CVS,153290,www.cvshealth.com,CVSHealth
+8,General Motors,GM,152356,www.gm.com,GM
+9,Ford Motor,F,149558,www.ford.com,Ford
+10,AT&T,T,146801,www.att.com,ATT
+11,General Electric,GE,140389,www.ge.com,generalelectric
+12,AmerisourceBergen,ABC,135962,www.amerisourcebergen.com,Healthcare_ABC
+13,Verizon,VZ,131620,www.verizon.com,verizon
+14,Chevron,CVX,131118,www.chevron.com,Chevron
+15,Costco,COST,116199,www.costco.com,Costco
+16,Fannie Mae,FNMA,110359,www.fanniemae.com,FannieMae
+17,Kroger,KR,109830,www.thekrogerco.com,Kroeger
+18,Amazon.com,AMZN,107006,www.amazon.com,amazon
+19,Walgreens,WAG,103444,www.walgreensbootsalliance.com,Walgreens
+20,HP,HPQ,103355,www.hp.com,HP
+21,Cardinal Health,CAH,102531,www.cardinal.com,cardinalhealth
+22,Express Scripts Holding,ESRX,101752,www.express-scripts.com,ExpressScripts
+23,J.P. Morgan Chase,JPM,101006,www.jpmorganchase.com,jpmorgan
+24,Boeing,BA,96114,www.boeing.com,Boeing
+25,Microsoft,MSFT,93580,www.microsoft.com,Microsoft
+26,Bank of America Corp.,BAC,93056,www.bankofamerica.com,BankofAmerica
+27,Wells Fargo,WFC,90033,www.wellsfargo.com,WellsFargo
+28,Home Depot,HD,88519,www.homedepot.com,HomeDepot
+29,Citigroup,C,88275,www.citigroup.com,Citi
+30,Phillips 66,PSX,87169,www.phillips66.com,Phillips66Co
+31,IBM,IBM,82461,www.ibm.com,IBM
+32,Valero Energy,VLO,81824,www.valero.com,ValeroEnergy
+33,Anthem,ANTM,79157,www.antheminc.com,AnthemInc
+34,Procter & Gamble,PG,78756,www.pg.com,ProcterGamble
+35,State Farm Insurance Cos.,STFGX,75697,www.statefarm.com,StateFarm
+36,Alphabet,GOOGL,74989,www.google.com,google
+37,Comcast,CMCSA,74510,www.comcastcorporation.com,comcast
+38,Target,TGT,73785,www.target.com,Target
+39,Johnson & Johnson,JNJ,70074,www.jnj.com,JNJNews
+40,MetLife,MET,69951,www.metlife.com,MetLife
+41,Archer Daniels Midland,ADM,67702,www.adm.com,ADMupdates
+42,Marathon Petroleum,MPC,64566,www.marathonpetroleum.com,MarathonPetroCo
+43,Freddie Mac,FMCC,63491,www.freddiemac.com,FreddieMac
+44,PepsiCo,PEP,63056,www.pepsico.com,PepsiCo
+45,United Technologies,UTX,61047,www.utc.com,UTC
+46,Aetna,AET,60337,www.aetna.com,aetna
+47,Lowe's,LOW,59074,www.lowes.com,Lowes
+48,UPS,UPS,58363,www.ups.com,UPS
+49,AIG,AIG,58327,www.aig.com,AIGinsurance
+50,Prudential Financial,PRU,57119,www.prudential.com,Prudential
+51,Intel,INTC,55355,www.intel.com,intel
+52,Humana,HUM,54289,www.humana.com,Humana
+53,Disney,DIS,52465,www.disney.com,Disney
+54,Cisco Systems,CSCO,49161,www.cisco.com,Cisco
+55,Pfizer,PFE,48851,www.pfizer.com,pfizer
+56,Dow Chemical,DOW,48778,www.dow.com,DowChemical
+57,Sysco,SYY,48681,www.sysco.com,Sysco
+58,FedEx,FDX,47453,www.fedex.com,FedEx
+59,Caterpillar,CAT,47011,www.caterpillar.com,CaterpillarInc
+60,Lockheed Martin,LMT,46132,www.lockheedmartin.com,LockheedMartin
+61,New York Life Insurance,,45891,www.newyorklife.com,NewYorkLife
+62,Coca-Cola,KO,44294,www.coca-colacompany.com,CocaCola
+63,HCA Holdings,HCA,43591,www.hcahealthcare.com,HCAhealthcare
+64,Ingram Micro,IM,43026,www.ingrammicro.com,IngramMicroInc
+65,Energy Transfer Equity,ETE,42126,www.energytransfer.com,EnergyTransfer
+66,Tyson Foods,TSN,41373,www.tysonfoods.com,TysonFoods
+67,American Airlines Group,AAL,40990,www.aa.com,AmericanAir
+68,Delta Air Lines,DAL,40704,www.delta.com,Delta
+69,Nationwide,,40222,www.nationwide.com,Nationwide
+70,Johnson Controls,JCI,40204,www.johnsoncontrols.com,johnsoncontrols
+71,Best Buy,BBY,39745,www.bestbuy.com,BestBuy
+72,Merck,MRK,39498,www.merck.com,Merck
+73,Liberty Mutual Insurance Group,,39450,www.libertymutual.com,LibertyMutual
+74,Goldman Sachs Group,GS,39208,www.gs.com,GoldmanSachs
+75,Honeywell International,HON,38581,www.honeywell.com,honeywell
+76,Massachusetts Mutual Life Insurance,,38243,www.massmutual.com,massmutual
+77,Oracle,ORCL,38226,www.oracle.com,Oracle
+78,Morgan Stanley,MS,37897,www.morganstanley.com,MorganStanley
+79,Cigna,CI,37876,www.cigna.com,Cigna
+80,United Continental Holdings,UAL,37864,www.unitedcontinentalholdings.com,united
+81,Allstate,ALL,35653,www.allstate.com,allstate
+82,TIAA,TIBLX,35181,www.tiaa.org,TIAA
+83,INTL FCStone,INTL,34693,www.intlfcstone.com,INTLFCStone
+84,CHS,CHS,34582,www.chsinc.com,CHSAgServices
+85,American Express,AXP,34441,www.americanexpress.com,americanexpress
+86,Gilead Sciences,GILD,32639,www.gilead.com,GileadSciences
+87,Publix Super Markets,,32619,www.publix.com,Publix
+88,General Dynamics,GD,31469,www.generaldynamics.com,GDMS
+89,TJX,TJX,30945,www.tjx.com,tjmaxx
+90,ConocoPhillips,COP,30935,www.conocophillips.com,conocophillips
+91,Nike,NKE,30601,www.nike.com,Nike
+92,World Fuel Services,INT,30380,www.wfscorp.com,wfscorp
+93,3M,MMM,30274,www.3m.com,3M
+94,Mondelez International,MDLZ,29636,www.mondelezinternational.com,MDLZ
+95,Exelon,EXC,29447,www.exeloncorp.com,Excelon
+96,Twenty-First Century Fox,FOXA,28987,www.21cf.com,21CF
+97,Deere,DE,28863,www.johndeere.com,JohnDeere
+98,Tesoro,TSO,28150,www.tsocorp.com,tesorotec
+99,Time Warner,TWX,28118,www.timewarner.com,WarnerMediaGrp
+100,Northwestern Mutual,,28111,www.northwesternmutual.com,NM_News
