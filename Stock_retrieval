@@ -2,14 +2,16 @@ import json
 import requests
 import pandas as pd
 from config import stock_key
-import pprint
 ----------------------------------------
 url = "https://www.alphavantage.co/"
-symbol = "AAPL"
-query_url = url + "query?function=TIME_SERIES_DAILY&symbol=" + symbol +"&apikey=" + stock_key
+ticker_file = "C:/Users/tiffa/downloads/ticker_list.csv"
 
-response = requests.get(url)
-print(response.status_code)
+df_symbol = pd.read_csv("C:/Users/tiffa/downloads/ticker_list.csv", usecols=[1])
+query_url= []
+
+for symbol in df_symbol["SYMBOL"]:
+    
+    query_url.append(url + "query?function=TIME_SERIES_DAILY&symbol=" + symbol +"&apikey=" + stock_key)
 ---------------------------------------
 stock_response = requests.get(query_url)
 stock_json = stock_response.json()
